@@ -1,0 +1,4 @@
+runner\RunCucumberTest.class
+steps\DescontosStep.class
+suport\Utils.class
+pages\HomePage.class
